@@ -1,0 +1,16 @@
+{
+  "name": "offenthink",
+  "version": "1.0.0",
+  "description": "the app server of offenthink",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wangzhenu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "jade": "^1.11.0",
+    "node-mysql": "^0.4.2"
+  }
+}
